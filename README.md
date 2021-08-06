@@ -1,6 +1,7 @@
 # dsa-practice
 
 ## About
+
 A repo to practice Data Structures and Algorithms.
 🌱 Currently working on traversals
 
